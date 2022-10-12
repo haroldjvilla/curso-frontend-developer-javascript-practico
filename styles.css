@@ -29,6 +29,7 @@
   }
   .menu {
     display: none;
+    cursor: pointer;
   }
   .logo {
     width: 100px;
@@ -139,6 +140,7 @@
     left: 0;
     background-color: var(--white);
     padding: 24px;
+    width: 100%;
   }
   .mobile-menu a {
     text-decoration: none;
@@ -321,6 +323,7 @@ aside {
 }
 .product-card {
   width: 240px;
+  cursor: pointer;
 }
 .product-card img {
   width: 240px;
